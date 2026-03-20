@@ -3,7 +3,7 @@
 
 # Tipos de Vías 🛣️
 
-¿Te crees que todas las carreteras son iguales? ¡Error! Aquí tienes la guía definitiva, con tablas, ejemplos y advertencias para no perderte ni en tu propio barrio (ni en el examen).
+¿Te crees que todas las carreteras son iguales? ¡Error! Aquí tienes la guía definitiva, con tablas, ejemplos y advertencias para no perderte ni en tu propio barrio (ni en el examen). Si Dom Toretto leyera esto, te diría: “No importa la vía, importa quién la conduce… y con quién la compartes.”
 
 ---
 
@@ -18,7 +18,7 @@
 ---
 
 ## Vías urbanas
-Las de dentro del pueblo o ciudad. Entre señales de entrada y salida de poblado. Donde el semáforo siempre está en rojo cuando tienes prisa.
+Las de dentro del pueblo o ciudad. Entre señales de entrada y salida de poblado. Donde el semáforo siempre está en rojo cuando tienes prisa. Aquí ni el Supra de Brian se libra del tráfico.
 
 ### Subtipos de vías urbanas
 | Subtipo | Descripción | ¿Puede haber peatones? |
@@ -34,12 +34,12 @@ Las de dentro del pueblo o ciudad. Entre señales de entrada y salida de poblado
 | Carril bici urbano | Para bicis, a veces compartido con peatones | Bicis y a veces peatones |
 
 **¡Ojo!**
-> No confundas una glorieta (rotonda) con una plaza: la glorieta regula tráfico circular, la plaza puede ser solo peatonal.
+> No confundas una glorieta (rotonda) con una plaza: la glorieta regula tráfico circular, la plaza puede ser solo peatonal. Si te equivocas, acabarás dando vueltas como Roman buscando la salida.
 
 ---
 
 ## Travesías
-Tramos de carretera que pasan por un pueblo. No son urbanas, pero tampoco de campo. Son como el “niño del medio” de las vías.
+Tramos de carretera que pasan por un pueblo. No son urbanas, pero tampoco de campo. Son como el “niño del medio” de las vías. Aquí ni Dom sabe si acelerar o saludar a la abuela.
 
 | Tipo | Descripción | ¿Límites especiales? |
 |------|-------------|---------------------|
@@ -47,12 +47,12 @@ Tramos de carretera que pasan por un pueblo. No son urbanas, pero tampoco de cam
 | Travesía secundaria | Variante menos transitada | Sí |
 
 **Advertencia:**
-> En travesías, los límites de velocidad y prioridad pueden cambiar respecto a la carretera original. ¡Atento a las señales!
+> En travesías, los límites de velocidad y prioridad pueden cambiar respecto a la carretera original. ¡Atento a las señales! Si te despistas, te espera una charla de Hobbs.
 
 ---
 
 ## Vías interurbanas
-Las de fuera del pueblo. Aquí sí puedes pisar un poco más (pero sin fliparte).
+Las de fuera del pueblo. Aquí sí puedes pisar un poco más (pero sin fliparte). Recuerda: “Vivir rápido está bien, pero llegar es mejor.”
 
 ### Carreteras principales
 | Tipo | Descripción | ¿Peatones? | ¿Bicis? |
@@ -86,7 +86,7 @@ Las de fuera del pueblo. Aquí sí puedes pisar un poco más (pero sin fliparte)
 | Camino privado | Uso restringido |
 
 **Diferencia clave:**
-> Una autopista nunca tiene cruces al mismo nivel ni acceso directo a propiedades, una autovía puede tenerlos en casos puntuales.
+> Una autopista nunca tiene cruces al mismo nivel ni acceso directo a propiedades, una autovía puede tenerlos en casos puntuales. Si ves un cruce raro, no improvises como Roman.
 
 ---
 
@@ -113,14 +113,14 @@ Las de fuera del pueblo. Aquí sí puedes pisar un poco más (pero sin fliparte)
 ---
 
 ## Trucos de examen y errores comunes
-- Si dudas si una vía es urbana o interurbana, busca las señales de entrada/salida de poblado.
-- No confundas una vía de servicio (acceso a fincas) con un arcén: el arcén no es vía.
-- Las sendas y vías verdes suelen ser exclusivas para peatones y ciclistas, ¡no metas el coche!
-- En autopista/autovía, nunca peatones ni ciclomotores (salvo excepciones muy concretas para bicis en autovía).
+- Si dudas si una vía es urbana o interurbana, busca las señales de entrada/salida de poblado. Si no, pregunta como Brian cuando no entiende el plan.
+- No confundas una vía de servicio (acceso a fincas) con un arcén: el arcén no es vía. Ni el Charger de Dom pasa por ahí.
+- Las sendas y vías verdes suelen ser exclusivas para peatones y ciclistas, ¡no metas el coche! Si lo haces, Letty te mira raro.
+- En autopista/autovía, nunca peatones ni ciclomotores (salvo excepciones muy concretas para bicis en autovía). Aquí ni Roman se atreve a saltarse la norma.
 
 **Ejemplo de pregunta trampa:**
-> ¿Puede circular un ciclomotor por una vía reservada a automóviles? Respuesta: NO.
+> ¿Puede circular un ciclomotor por una vía reservada a automóviles? Respuesta: NO. Si lo intentas, te espera una carrera… pero con la DGT.
 
 ---
 
-¿Te has perdido? ¡Normal! Pero ahora ya no tienes excusa: si existe, está aquí. Si encuentras una vía que no esté en la lista, ¡escríbela tú y la añadimos!
+¿Te has perdido? ¡Normal! Pero ahora ya no tienes excusa: si existe, está aquí. Si encuentras una vía que no esté en la lista, ¡escríbela tú y la añadimos! Porque en Fast & Furious, siempre hay una carretera nueva… y una familia esperándote al final.

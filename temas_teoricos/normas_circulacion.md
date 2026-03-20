@@ -1,6 +1,6 @@
 # Tema 2: Normas de Circulación 🚦
 
-¿Te crees Fernando Alonso por la calle? Aquí tienes las normas para que no acabes en la cuneta (o en la comisaría). ¡Con ejemplos, trucos y advertencias para que no se te olvide nada!
+¿Te crees Fernando Alonso por la calle? Aquí tienes las normas para que no acabes en la cuneta (o en la comisaría). ¡Con ejemplos, trucos y advertencias para que no se te olvide nada! Recuerda: “No importa lo rápido que vayas, importa llegar… y no acabar en la foto de la DGT.”
 
 ---
 
@@ -9,7 +9,7 @@
 - **Excepción:** En adelantamientos, puedes ocupar el carril izquierdo, pero vuelve al derecho cuanto antes.
 
 **Ejemplo:**
-> Si vas por una carretera de doble sentido, mantente siempre a la derecha. Solo los ingleses conducen por la izquierda (y aquí no estamos en Londres).
+> Si vas por una carretera de doble sentido, mantente siempre a la derecha. Solo los ingleses conducen por la izquierda (y aquí no estamos en Londres). Ni Dom se atreve a tanto fuera de la saga.
 
 ---
 
@@ -19,10 +19,10 @@
 - **Adelanta por la izquierda**, salvo que el vehículo de delante vaya a girar a la izquierda o en vías de sentido único con varias filas.
 
 **Truco de examen:**
-> Si dudas, NO adelantes. Mejor perder un minuto que perder el examen (o algo peor).
+> Si dudas, NO adelantes. Mejor perder un minuto que perder el examen (o algo peor). Brian siempre espera el momento perfecto para meter el turbo.
 
 **Advertencia:**
-> Adelantar en línea continua es falta eliminatoria y multa grave.
+> Adelantar en línea continua es falta eliminatoria y multa grave. Ni con NOS te salvas de esa.
 
 ---
 
@@ -36,7 +36,7 @@
 | No señalizar la salida | Usa el intermitente derecho al salir |
 
 **Anecdotario:**
-> Más de uno ha dado vueltas en la rotonda hasta marearse por no saber salir. ¡Practica antes del examen!
+> Más de uno ha dado vueltas en la rotonda hasta marearse por no saber salir. ¡Practica antes del examen! Si te pasas la salida, da otra vuelta como Roman buscando la próxima misión.
 
 ---
 
@@ -55,7 +55,7 @@
 | Emergencia con sirena | El vehículo de emergencia |
 
 **Truco:**
-> Si dudas, deja pasar. Mejor parecer prudente que pagar la grúa.
+> Si dudas, deja pasar. Mejor parecer prudente que pagar la grúa. Dom siempre respeta a la familia… y a los peatones.
 
 ---
 
@@ -66,7 +66,7 @@
 - **Prohibido usar el móvil**: Ni para mirar el WhatsApp rápido.
 
 **Advertencia:**
-> El 90% de los accidentes por alcance se deben a no guardar la distancia de seguridad.
+> El 90% de los accidentes por alcance se deben a no guardar la distancia de seguridad. Si no dejas espacio, acabarás más pegado que los coches en la parrilla de salida de Fast & Furious.
 
 ---
 
@@ -75,7 +75,7 @@
 - ¿Quién tiene prioridad en una intersección con semáforo en ámbar intermitente? El que viene por la derecha, salvo señalización específica.
 
 **Consejo final:**
-> Si tienes dudas, aplica la norma más segura y nunca te la juegues en el examen.
+> Si tienes dudas, aplica la norma más segura y nunca te la juegues en el examen. Recuerda: “Vivir rápido está bien, pero llegar entero es mejor.”
 
 ---
 

@@ -1,6 +1,6 @@
 # Permisos de Conducción 🎫
 
-¿Pensabas que con el carnet B podías conducir un tanque? Aquí tienes la realidad, resumida, con tablas, ejemplos y trucos para no liarte nunca más.
+¿Pensabas que con el carnet B podías conducir un tanque? Aquí tienes la realidad, resumida, con tablas, ejemplos y trucos para no liarte nunca más. Recuerda: “No importa el permiso, importa el piloto… y el coche que lleves.”
 
 ---
 
@@ -27,10 +27,10 @@
 - **¿Qué pasa si llevo un remolque grande?** Necesitas el E correspondiente a tu permiso.
 
 **Truco de examen:**
-> Si dudas, recuerda: cuanto más grande el vehículo, más letra y más edad necesitas.
+> Si dudas, recuerda: cuanto más grande el vehículo, más letra y más edad necesitas. Como en Fast & Furious: cada entrega, más locura y más músculo.
 
 **Advertencia:**
-> No confundas el permiso A1 (motos pequeñas) con el AM (ciclomotores). Y el A2 no es para todas las motos, solo hasta 35kW.
+> No confundas el permiso A1 (motos pequeñas) con el AM (ciclomotores). Y el A2 no es para todas las motos, solo hasta 35kW. Si te lías, acabarás como Roman: preguntando a todos y sin arrancar.
 
 ---
 

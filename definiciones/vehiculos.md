@@ -15,16 +15,17 @@
 - **Cuadriciclo ligero**: Cuatro ruedas, pero no te emociones, sigue siendo "ligero".
 - **Tranvía**: El Uber de los abuelos.
 
+
 ## Vehículos con motor (¡ahora sí, ruido y velocidad!)
-- **Turismo**: El coche de toda la vida.
-- **Moto (con sidecar también)**: Para los que no quieren ir solos ni en coche.
-- **Autobús**: Donde todos somos familia... por 20 minutos.
-- **Furgoneta**: El sueño de cualquier grupo de música indie.
-- **Triciclos**: Tres ruedas, doble diversión.
-- **Vehículo Mixto Adaptable**: Lleva personas, lleva cosas, ¡lleva lo que quieras!
-- **Vehículo articulado**: Camión con "codo". No apto para novatos.
-- **Tren de carretera**: Porque un camión no era suficiente.
-- **Tractores y de obras**: Si tienes uno, probablemente no necesitas leer esto.
+- **Turismo**: El coche de toda la vida. Ejemplo Fast & Furious: Toyota Supra Mk4 de Brian O'Conner (Fast & Furious 1).
+- **Moto (con sidecar también)**: Para los que no quieren ir solos ni en coche. Ejemplo: Letty en moto en Fast & Furious 6, persiguiendo a Owen Shaw.
+- **Autobús**: Donde todos somos familia... por 20 minutos. Ejemplo: El autobús de presos que Dom revienta en Fast Five.
+- **Furgoneta**: El sueño de cualquier grupo de música indie. Ejemplo: La furgoneta de asalto de Roman en Fast & Furious 7.
+- **Triciclos**: Tres ruedas, doble diversión. Ejemplo: Roman y Tej en triciclo motorizado en la persecución de Fast & Furious 8 (sí, existe).
+- **Vehículo Mixto Adaptable**: Lleva personas, lleva cosas, ¡lleva lo que quieras! Ejemplo: El Dodge Ram de Toretto, que sirve para todo.
+- **Vehículo articulado**: Camión con "codo". No apto para novatos. Ejemplo: El camión cisterna de la escena inicial de Fast & Furious 4.
+- **Tren de carretera**: Porque un camión no era suficiente. Ejemplo: El convoy de camiones en Fast & Furious 5, robo al tren incluido.
+- **Tractores y de obras**: Si tienes uno, probablemente no necesitas leer esto. Ejemplo: El bulldozer que usa Hobbs en Fast & Furious 7 para volcar coches.
 
 ## MPV (Movilidad Personal "VIP")
 - **Patines eléctricos y monopatines**: Prohibidos en autopistas, autovías y aceras. Pero oye, en el parque eres el rey.

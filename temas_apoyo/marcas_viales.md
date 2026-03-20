@@ -2,7 +2,8 @@
 
 # Marcas Viales 🛣️
 
-Las marcas viales son las señales pintadas en el pavimento que te indican por dónde y cómo debes circular. Aunque a veces pasen desapercibidas, ¡son clave para la seguridad y la organización del tráfico!
+
+Las marcas viales son las señales pintadas en el pavimento que te indican por dónde y cómo debes circular. Aunque a veces pasen desapercibidas, ¡son clave para la seguridad y la organización del tráfico! Si Dom Toretto las ve, tú también deberías. Recuerda: “Vivir rápido está bien, pero saltarse una línea continua… eso ni en Fast & Furious.”
 
 ---
 
@@ -20,7 +21,7 @@ Las marcas viales son las señales pintadas en el pavimento que te indican por d
 | Línea de carril especial | Marca carriles reservados (bus, VAO, bici, etc.). | ⚠️ |
 
 **Ejemplo práctico:**
-> Si ves una línea continua y la cruzas para adelantar, es falta eliminatoria en el examen y multa segura en la vida real.
+> Si ves una línea continua y la cruzas para adelantar, es falta eliminatoria en el examen y multa segura en la vida real. Ni Brian con NOS se atrevería a tanto.
 
 ### Líneas transversales
 | Tipo | Significado |
@@ -31,7 +32,7 @@ Las marcas viales son las señales pintadas en el pavimento que te indican por d
 | Paso de ciclistas | Dos líneas discontinuas paralelas. Prioridad para ciclistas. |
 
 **Truco de examen:**
-> Si ves una línea de detención, para antes de ella, no encima. Si la ruedas la pisan, es motivo de suspenso.
+> Si ves una línea de detención, para antes de ella, no encima. Si la ruedas la pisan, es motivo de suspenso. Recuerda: “Aquí se para, como cuando Dom ve una barbacoa.”
 
 ### Flechas y símbolos
 - **Flechas de dirección**: Indican hacia dónde puedes o debes ir.
@@ -42,7 +43,7 @@ Las marcas viales son las señales pintadas en el pavimento que te indican por d
 - **Símbolos de velocidad**: Indican la velocidad máxima permitida en ese tramo.
 
 **Ejemplo:**
-> Si en el carril hay una flecha recta y otra de giro, puedes seguir recto o girar. Si solo hay una, debes obedecerla.
+> Si en el carril hay una flecha recta y otra de giro, puedes seguir recto o girar. Si solo hay una, debes obedecerla. No intentes improvisar como Roman, que siempre acaba en líos.
 
 ### Otras marcas
 - **Marcas amarillas en zigzag**: Prohibido parar o estacionar.
@@ -57,7 +58,7 @@ Las marcas viales son las señales pintadas en el pavimento que te indican por d
 - **Marcas de badén o resalto**: Triángulos o líneas que avisan de un resalto.
 
 **Consejo:**
-> Si ves marcas amarillas, ni se te ocurra parar ni un segundo. Son las favoritas de los examinadores para pillar despistados.
+> Si ves marcas amarillas, ni se te ocurra parar ni un segundo. Son las favoritas de los examinadores para pillar despistados. Y si te pilla Letty, prepárate para correr.
 
 ### Marcas especiales
 - **Marcas de carril VAO**: Carril para vehículos de alta ocupación.
@@ -70,12 +71,12 @@ Las marcas viales son las señales pintadas en el pavimento que te indican por d
 ---
 
 ## Consejos de examen y anécdotas
-- Si dudas, ¡no cruces la línea continua!
-- Respeta siempre los pasos de peatones y las marcas de ceda el paso.
-- Las marcas viales prevalecen sobre las señales verticales solo si son más restrictivas.
-- Si ves marcas nuevas o poco habituales, pregunta antes de actuar: los examinadores valoran la prudencia.
+- Si dudas, ¡no cruces la línea continua! Dom nunca lo haría (bueno, casi nunca).
+- Respeta siempre los pasos de peatones y las marcas de ceda el paso. Si no, te espera una charla de Hobbs.
+- Las marcas viales prevalecen sobre las señales verticales solo si son más restrictivas. Como en Fast & Furious: la norma más loca es la que manda.
+- Si ves marcas nuevas o poco habituales, pregunta antes de actuar: los examinadores valoran la prudencia. Mejor preguntar que acabar como Roman: perdido y sin GPS.
 
-> **Anecdotario:** Más de uno ha suspendido el examen por pisar una línea continua o no respetar una marca amarilla. ¡Ojo al suelo! También hay quien ha confundido una marca de carril bus con una de parada y ha acabado en la foto del día de la autoescuela.
+> **Anecdotario:** Más de uno ha suspendido el examen por pisar una línea continua o no respetar una marca amarilla. ¡Ojo al suelo! También hay quien ha confundido una marca de carril bus con una de parada y ha acabado en la foto del día de la autoescuela. Y recuerda: “En la carretera, como en la familia, el respeto es lo primero.”
 
 ---
 
@@ -92,4 +93,4 @@ Las marcas viales son las señales pintadas en el pavimento que te indican por d
 
 ---
 
-¿Tienes dudas? ¡Mira el suelo antes de moverte y repasa este archivo antes del examen!
+¿Tienes dudas? ¡Mira el suelo antes de moverte y repasa este archivo antes del examen! Porque aquí, como en Fast & Furious, el asfalto lo es todo.
