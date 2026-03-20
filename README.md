@@ -1,8 +1,8 @@
 # ÍNDICE GENERAL DEL TEMARIO
 
-¡Bienvenido, aprendiz de la carretera! Has encontrado el grimorio definitivo para dominar el arte de circular, aprobar exámenes y, de paso, reírte más que en la autoescuela. Aquí cada sección viene con un hechizo de sabiduría y un toque de humor. ¡No te duermas o te convierto en señal de STOP!
+¡Bienvenido, novato mandril de la carretera! Has encontrado el grimorio definitivo para dominar el arte de circular, aprobar exámenes y, de paso, reírte más que en la autoescuela con el pelado de turno, que ya esta cansado de decir la misma clase desde que empezó a ser alumno en ella. Aquí cada sección viene con un input de información y un toque de humor. ¡No te duermas o te comerás esa señal de STOP!
 
-## 🧩 Temas Principales (¡Nivel: Mago del Tráfico!)
+## 🧩 Temas Principales
 - [Tema 1: Conceptos Básicos de Tráfico](temas/tema_1.md) 🧠
     - [Permisos de Conducción](temas_teoricos/permisos_conduccion.md) 🎫
     - [Tipos de Vías](temas_apoyo/tipos_de_vias.md) 🛣️
@@ -16,7 +16,7 @@
     - [Señales de Tráfico](temas_teoricos/senales.md) 🛑
     - [Seguridad Vial](temas_teoricos/seguridad_vial.md) 🦺
 
-## 🚗 Definiciones Importantes (¡No te pierdas en el bosque de términos!)
+## 🚗 Definiciones Importantes
 - [Definiciones de Vehículos](definiciones/vehiculos.md) 🚗
 - [Ciclos y Vehículos Eléctricos](definiciones/ciclos.md) ⚡
 - [Señales de Tráfico](definiciones/senales.md) 🚥
@@ -24,20 +24,20 @@
 - [Seguridad Vial](definiciones/seguridad.md) 🦺
 - [Definiciones Complementarias](definiciones/complementarias.md) 🧙‍♀️
 
-## 📑 Anexos y Hechizos Secretos
+## 📑 Anexos y Secretos
 - [LegenCode de Abreviaturas](legends/legencode.md) 🧾
 
-## 📝 Notas y Actividades (¡Pon a prueba tu magia!)
+## 📝 Notas y Actividades
 - [Actividades: Desafía tu sabiduría vial](actividades/activityindex.md) 🎲
 - [Notas rápidas (para despistados y genios olvidadizos)](notas/noteindex.md) 📝
 
 ---
 
-## 🧙‍♂️ Encantamientos Extra
-- Todos los archivos tienen un hechizo de regreso: ¡haz clic en “Volver al índice” y aparecerás aquí como por arte de magia!
+## 😒 Info Extra
+- Todos los archivos tienen un link de regreso a casita, si aqui: ¡haz clic en “Volver al índice” y aparecerás aquí como por arte de derrape!
 - Si te pierdes, invoca a tu profe, a tu compi o a tu sentido común. (O simplemente vuelve aquí, que es más fácil).
-- ¿Quieres más magia? ¡Sugiere tu propio hechizo o sección y la añadimos!
+- ¿Quieres más info? ¡Sugiere tu propia opinion o sección y la añadimos si nos interesa!
 
 ---
 
-¿Listo para convertirte en el Gandalf de la circulación? ¡Explora, aprende y que la DGT no te pille desprevenido! 🚦
+¿Listo para convertirte en el Vin Diesel de la circulación? ¡Explora, aprende y que la DGT no te pille desprevenido! 🚦
