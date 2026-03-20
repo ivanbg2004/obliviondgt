@@ -1,5 +1,5 @@
 #
-[Volver al índice](../index.md)
+[Volver al índice](../README.md)
 # Definiciones: Seguridad Vial 🦺
 
 La seguridad vial no es solo un rollo de la DGT. Aquí tienes los conceptos clave para que llegues a casa entero (y sin multas).

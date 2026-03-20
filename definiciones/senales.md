@@ -1,5 +1,5 @@
 #
-[Volver al índice](../index.md)
+[Volver al índice](../README.md)
 # Definiciones: Señales de Tráfico 🚥
 
 ¿Te suenan los dibujitos de la carretera? Aquí tienes las señales más importantes, explicadas para humanos.

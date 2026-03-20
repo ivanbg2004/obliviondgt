@@ -1,5 +1,5 @@
 #
-[Volver al índice](../index.md)
+[Volver al índice](../README.md)
 # Definiciones: Prioridad de Paso 🏁
 
 ¿Quién pasa primero? La eterna pregunta. Aquí tienes la respuesta para que no te pelees en los cruces.

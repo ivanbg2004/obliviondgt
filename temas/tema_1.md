@@ -1,4 +1,4 @@
-[Volver al índice](../index.md)
+[Volver al índice](../README.md)
 # Tema 1: Conceptos Básicos de Tráfico 🚦
 
 ¿Quién dijo que las normas de tráfico son aburridas? Aquí tienes lo esencial para sobrevivir en la jungla urbana (y reírte un poco en el intento).
@@ -116,4 +116,4 @@ Consulta el archivo [Tipos de Vías](tipos_de_vias.md) para no perderte ni en tu
 
 ---
 
-[Volver al índice](../index.md)
+[Volver al índice](../README.md)

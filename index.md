@@ -27,7 +27,7 @@
 
 ## 📝 Notas y Actividades
 - [Actividad 1: El examen sorpresa](notas/actividad_1.md)
-- [Notas rápidas (para despistados)](notas/README.md)
+- [Notas rápidas (para despistados)](notas/index.md)
 
 ---
 

@@ -4,4 +4,4 @@ Aquí puedes dejar tus ideas, recordatorios o ese apunte que juras que luego vas
 
 ---
 
-[Volver al índice](../index.md)
+[Volver al índice](../README.md)

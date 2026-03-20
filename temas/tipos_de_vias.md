@@ -1,5 +1,5 @@
 #
-[Volver al índice](../index.md)
+[Volver al índice](../README.md)
 # Tipos de Vías 🛣️
 
 ¿Te crees que todas las carreteras son iguales? ¡Error! Aquí tienes la guía rápida para no perderte ni en tu propio barrio.

@@ -25,4 +25,4 @@ Para llevar remolques grandes. Si te mudas mucho, igual te interesa.
 
 ---
 
-[Volver al índice](../index.md)
+[Volver al índice](../README.md)
