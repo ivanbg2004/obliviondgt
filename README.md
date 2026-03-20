@@ -1,4 +1,4 @@
-# ÍNDICE GENERAL DEL TEMARIO: VERSIÓN ENCANTADA
+# ÍNDICE GENERAL DEL TEMARIO
 
 ¡Bienvenido, aprendiz de la carretera! Has encontrado el grimorio definitivo para dominar el arte de circular, aprobar exámenes y, de paso, reírte más que en la autoescuela. Aquí cada sección viene con un hechizo de sabiduría y un toque de humor. ¡No te duermas o te convierto en señal de STOP!
 
