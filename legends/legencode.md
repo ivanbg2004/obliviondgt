@@ -1,4 +1,4 @@
-# Anexo: LegenCode de Abreviaturas 🚦
+# Anexo: LegenCode de Abreviaturas 
 
 ¿Te pierdes entre tantas siglas? Aquí tienes el diccionario definitivo para no confundir un CVV con un código de la tarjeta (spoiler: no es lo mismo).
 

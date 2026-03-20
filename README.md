@@ -4,11 +4,12 @@
 
 ## 🚦 Temas Principales
 - [Tema 1: Conceptos Básicos de Tráfico](temas/tema_1.md)
-	- [Permisos de Conducción](temas/permisos_conduccion.md)
-	- [Tipos de Vías](temas/tipos_de_vias.md)
-- [Tema 2: Normas de Circulación](temas/normas_circulacion.md)
-- [Tema 3: Señales de Tráfico](temas/senales.md)
-- [Tema 4: Seguridad Vial](temas/seguridad_vial.md)
+    - [Permisos de Conducción](temas_teoricos/permisos_conduccion.md)
+    - [Tipos de Vías](temas_apoyo/tipos_de_vias.md)
+- [Tema 2: Normas de Circulación](temas_teoricos/normas_circulacion.md)
+- [Tema 3: Obligaciones y usuarios de la vía](temas/tema_3.md)
+- [Tema 4: Señales de Tráfico](temas_teoricos/senales.md)
+- [Tema 5: Seguridad Vial](temas_teoricos/seguridad_vial.md)
 
 - [Definiciones de Vehículos](definiciones/vehiculos.md)
 - [Ciclos y Vehículos Eléctricos](definiciones/ciclos.md)
@@ -23,10 +24,10 @@
 - [Seguridad Vial](definiciones/seguridad.md)
 
 ## 📑 Anexos
-- [LegenCode de Abreviaturas](definiciones/legencode.md)
+- [LegenCode de Abreviaturas](legends/legencode.md)
 
 ## 📝 Notas y Actividades
-- [Actividad 1: El examen sorpresa](notas/actividad_1.md)
+- [Actividades](actividades/index.md)
 - [Notas rápidas (para despistados)](notas/index.md)
 
 ---
